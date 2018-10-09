@@ -4,6 +4,6 @@ class Artist
   def initialize(name, genre) 
     @name = name
     @genre = genre
-  en
+  end
   
 end
