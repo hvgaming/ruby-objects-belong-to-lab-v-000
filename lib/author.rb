@@ -1,2 +1,2 @@
-class Aurthor
+class Author
 end
