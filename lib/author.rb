@@ -3,6 +3,6 @@ attr_accessor :name, :author
  
   def initialize(name,author) 
     @name = name
-    @genre = author
+    @author = author
   end
 end
